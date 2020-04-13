@@ -3,6 +3,10 @@ name = "xml-xls-parser"
 version = "0.1.0"
 authors = ["blakehawkins"]
 edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "Parse XLS files as XML"
+repository = "https://github.com/blakehawkins/xml-xls-parser"
+readme = "README.md"
 
 [dependencies]
 anyhow = "1.0"
